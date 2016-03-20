@@ -18,7 +18,7 @@
 		<tbody>
 			<c:forEach var="user" items="${userList}">
 			<tr>
-				<td>${user.nom}</td>
+				<td>${user.id}</td>
 				<td>${user.nom}</td>
 				<td>${user.prenom}</td>
 				<td>
