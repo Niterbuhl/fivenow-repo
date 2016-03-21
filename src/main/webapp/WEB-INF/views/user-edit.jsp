@@ -19,17 +19,17 @@
 					</tr>
 					<tr>
 						<td>Prénom :</td>
-						<td><sf:input path="emplNumber" /></td>
-						<td><sf:errors path="emplNumber" cssStyle="color: red;"/></td>
+						<td><sf:input path="prenom" /></td>
+						<td><sf:errors path="prenom" cssStyle="color: red;"/></td>
 					</tr>
 					<tr>
-						<td><input type="submit" value="Create" /></td>
+						<td><input type="submit" value="Update" /></td>
 						<td></td>
 						<td></td>
 					</tr>
 				</tbody>
 			</table>
 		</sf:form>
-		<a href="${pageContext.request.contextPath}/">Home page</a>
+		<a href="/FiveNow">Home page</a>
 	</body>
 </html>

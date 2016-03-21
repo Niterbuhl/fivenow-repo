@@ -51,7 +51,7 @@ public class UserServiceImpl implements UserService {
             throw new UserNotFound();
 		
 		updatedUser.setNom(user.getNom());
-        updatedUser.setAge(user.getAge());
+        updatedUser.setPrenom(user.getPrenom());
 		return null;
 	}
 

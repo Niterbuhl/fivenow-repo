@@ -22,8 +22,8 @@
 				<td>${user.nom}</td>
 				<td>${user.prenom}</td>
 				<td>
-					<a href="/edit/${user.id}.html">Edit</a><br/>
-					<a href="/delete/${user.id}.html">Delete</a><br/>
+					<a href="/FiveNow/edit/${user.id}.html">Edit</a><br/>
+					<a href="/FiveNow/delete/${user.id}.html">Delete</a><br/>
 				</td>
 			</tr>
 			</c:forEach>
