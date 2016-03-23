@@ -32,7 +32,7 @@
 		</dependency>
 		
 		<!-- Spring dependencies -->
-		
+			
 		<dependency>
 			<groupId>org.hibernate</groupId>
 			<artifactId>hibernate-core</artifactId>

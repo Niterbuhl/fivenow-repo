@@ -7,12 +7,17 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<ul>
-		<li><a href="/FiveNow">Accueil</a></li>
-		<li><a href="/FiveNow/jouer">Jouer</a></li>
-		<li><a href="/FiveNow/create.html">Mon équipe</a></li>
-		<li><a href="/FiveNow/contacts">Contacts</a></li>
-		<li><a href="/FiveNow/list">Liste utilisateur</a></li>
-	</ul>
+	<nav class="navbar navbar-inverse">
+		<div class="navbar-header">
+	      <a class="navbar-brand" href="#">WebSiteName</a>
+	    </div>
+	    <ul class="nav navbar-nav">
+	      	<li><a href="/FiveNow">Accueil</a></li>
+			<li><a href="/FiveNow/jouer">Jouer</a></li>
+			<li><a href="/FiveNow/create.html">Mon équipe</a></li>
+			<li><a href="/FiveNow/contacts">Contacts</a></li>
+			<li><a href="/FiveNow/list">Liste utilisateur</a></li>
+	    </ul>		
+	</nav>	
 </body>
 </html>
