@@ -15,7 +15,7 @@
 	<body>
 	<%@ include file="menu.jsp" %>
 	<h4>User List page</h1>
-	<table style="text-align: center;" border="1px" cellpadding="0" cellspacing="0" >
+	<table class="table table-striped table-hover" >
 		<thead>
 			<tr>
 			<th width="25px">id</th><th width="150px">nom</th><th width="25px">prenom</th><th width="50px">actions</th>

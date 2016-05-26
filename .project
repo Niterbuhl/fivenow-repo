@@ -41,22 +41,22 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>src/main/webapp/Ress/Foot1.jpg</name>
+			<name>src/main/resources/Foot1.jpg</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Pictures/Foot1.jpg</locationURI>
 		</link>
 		<link>
-			<name>src/main/webapp/WEB-INF/Images/Foot2.jpg</name>
+			<name>src/main/resources/Foot2.jpg</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Pictures/Foot2.jpg</locationURI>
 		</link>
 		<link>
-			<name>src/main/webapp/WEB-INF/Images/Foot3.jpg</name>
+			<name>src/main/resources/Foot3.jpg</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Pictures/Foot3.jpg</locationURI>
 		</link>
 		<link>
-			<name>src/main/webapp/WEB-INF/Images/Foot4.jpg</name>
+			<name>src/main/resources/Foot4.jpg</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/Pictures/Foot4.jpg</locationURI>
 		</link>
